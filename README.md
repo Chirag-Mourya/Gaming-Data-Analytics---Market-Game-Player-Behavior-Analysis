@@ -65,7 +65,7 @@ Interactive Dashboard
 
 ---
 
-##Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard provides a one-page overview of the gaming ecosystem.
 
