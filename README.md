@@ -248,4 +248,5 @@ Gaming-Analytics/
 ## Author
 
 **Chirag Mourya**
+
 **Data Analytics | Python | SQL | PostgreSQL | Power BI | DAX**
