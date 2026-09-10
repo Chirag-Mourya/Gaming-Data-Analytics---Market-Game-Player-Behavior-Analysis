@@ -96,10 +96,10 @@ The dashboard provides a one-page overview of the gaming ecosystem.
 
 ## Key Findings
 
-###Large & Fragmented Market
+### Large & Fragmented Market
 The dataset contains approximately **15K games, 6.28K publishers, and 8.79K developers**, indicating a highly fragmented gaming ecosystem.
 
-###P C Dominance
+### PC Dominance
 PC represents approximately **50.7%** of the selected top-five platform distribution, making it the most represented platform in the dataset.
 
 ### Genre Representation
@@ -248,5 +248,4 @@ Gaming-Analytics/
 ## Author
 
 **Chirag Mourya**
-
 **Data Analytics | Python | SQL | PostgreSQL | Power BI | DAX**
