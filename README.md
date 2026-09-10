@@ -28,13 +28,13 @@ The analysis focuses on questions such as:
 ## Tools & Technologies
 
 | Tool | Purpose |
-
-| **Python / Pandas** | Data exploration, cleaning and preparation |
-| **PostgreSQL** | Data storage and SQL analysis |
-| **SQL** | Aggregation, joins, filtering and business questions |
-| **Power BI** | Dashboard and interactive visualization |
-| **DAX** | KPI and analytical measures |
-| **Power Query** | Data transformation |
+/n
+| **Python / Pandas** | Data exploration, cleaning and preparation |,
+| **PostgreSQL** | Data storage and SQL analysis |,
+| **SQL** | Aggregation, joins, filtering and business questions |,
+| **Power BI** | Dashboard and interactive visualization |,
+| **DAX** | KPI and analytical measures |,
+| **Power Query** | Data transformation |,
 | **GitHub** | Project documentation and version control |
 
 ---
